@@ -230,7 +230,7 @@ section {
 }
 
 .news p {
-    font-size: 0.9em;
+    font-size: 1em;
     margin-bottom: 10px;
 }
 
@@ -246,7 +246,6 @@ section {
 }
 
 .news .box .title a {
-    color: #333;
     margin-top: 40px;
     height: 40px;
 }
@@ -257,13 +256,8 @@ section {
 }
 
 .news .box .date {
-    font-size: 0.9em;
+    font-size: 1em;
     color: darkgray;
-}
-
-.news .box .date:hover {
-    color:#333;
-    font-weight: bold;
 }
 
 /*--------contact-------------------------*/
