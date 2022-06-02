@@ -1,1 +1,1 @@
-https://github.com/shircorgi/shircorgi.github.io
+https://shircorgi.github.io/
